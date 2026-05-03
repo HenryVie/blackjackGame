@@ -1,3 +1,7 @@
+# Blackjack game CLI
+# Author: Nguyễn Đình Nam
+# Description: A command-line blackjack simulator.
+
 import random
 
 # Create a whole card deck
